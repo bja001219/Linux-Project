@@ -42,6 +42,7 @@ resized_images/
 *.avi
 *.mov
 slideshow.*
+!slideshow.py
 
 # OS / editor
 .DS_Store
